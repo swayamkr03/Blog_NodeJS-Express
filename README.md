@@ -5,7 +5,6 @@ A full-stack Node.js portfolio blog built with:
 - MongoDB
 - EJS
 - JWT Authentication
-- Dark Developer UI
 
 ## Features
 - Admin dashboard
